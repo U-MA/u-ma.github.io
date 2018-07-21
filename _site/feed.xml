@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-07-21T18:26:48+09:00</updated>
+  <updated>2018-07-21T19:37:46+09:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,12 +20,12 @@
   
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="http://localhost:4000/web%20development/2014/07/18/project-1/" rel="alternate" type="text/html" title="Project 1" />
-      <published>2014-07-18T00:00:00+09:00</published>
-      <updated>2014-07-18T00:00:00+09:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/18/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/18/project-1/"></content>
+      <title type="html">Ue4 Petit Con 07</title>
+      <link href="http://localhost:4000/ue4/2017/03/25/ue4-petit-con-07/" rel="alternate" type="text/html" title="Ue4 Petit Con 07" />
+      <published>2017-03-25T00:00:00+09:00</published>
+      <updated>2017-03-25T00:00:00+09:00</updated>
+      <id>http://localhost:4000/ue4/2017/03/25/ue4-petit-con-07</id>
+      <content type="html" xml:base="http://localhost:4000/ue4/2017/03/25/ue4-petit-con-07/"></content>
 
       
       
@@ -40,7 +40,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="UE4" />
       
 
       
@@ -54,12 +54,12 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/web%20development/2014/07/17/project-2/" rel="alternate" type="text/html" title="Project 2" />
-      <published>2014-07-17T00:00:00+09:00</published>
-      <updated>2014-07-17T00:00:00+09:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/17/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/17/project-2/"></content>
+      <title type="html">Ue4 Petit Con 08</title>
+      <link href="http://localhost:4000/ue4/2016/09/16/ue4-petit-con-08/" rel="alternate" type="text/html" title="Ue4 Petit Con 08" />
+      <published>2016-09-16T00:00:00+09:00</published>
+      <updated>2016-09-16T00:00:00+09:00</updated>
+      <id>http://localhost:4000/ue4/2016/09/16/ue4-petit-con-08</id>
+      <content type="html" xml:base="http://localhost:4000/ue4/2016/09/16/ue4-petit-con-08/"></content>
 
       
       
@@ -74,7 +74,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="UE4" />
       
 
       
@@ -88,12 +88,12 @@
     </entry>
   
     <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/web%20development/2014/07/16/project-3/" rel="alternate" type="text/html" title="Project 3" />
-      <published>2014-07-16T00:00:00+09:00</published>
-      <updated>2014-07-16T00:00:00+09:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/16/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/16/project-3/"></content>
+      <title type="html">Hideo Radio</title>
+      <link href="http://localhost:4000/android/2016/01/29/hideo-radio/" rel="alternate" type="text/html" title="Hideo Radio" />
+      <published>2016-01-29T00:00:00+09:00</published>
+      <updated>2016-01-29T00:00:00+09:00</updated>
+      <id>http://localhost:4000/android/2016/01/29/hideo-radio</id>
+      <content type="html" xml:base="http://localhost:4000/android/2016/01/29/hideo-radio/"></content>
 
       
       
@@ -108,109 +108,7 @@
       </author>
 
       
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 4</title>
-      <link href="http://localhost:4000/web%20development/2014/07/15/project-4/" rel="alternate" type="text/html" title="Project 4" />
-      <published>2014-07-15T00:00:00+09:00</published>
-      <updated>2014-07-15T00:00:00+09:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/15/project-4</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/15/project-4/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 6</title>
-      <link href="http://localhost:4000/web%20development/2014/07/15/project-6/" rel="alternate" type="text/html" title="Project 6" />
-      <published>2014-07-15T00:00:00+09:00</published>
-      <updated>2014-07-15T00:00:00+09:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/15/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/15/project-6/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 5</title>
-      <link href="http://localhost:4000/web%20development/2014/07/14/project-5/" rel="alternate" type="text/html" title="Project 5" />
-      <published>2014-07-14T00:00:00+09:00</published>
-      <updated>2014-07-14T00:00:00+09:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/14/project-5</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/14/project-5/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
+        <category term="Android" />
       
 
       
