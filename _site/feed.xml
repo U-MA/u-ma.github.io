@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-07-21T20:48:40+09:00</updated>
+  <updated>2018-07-21T21:40:02+09:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,40 @@
   
 
   
+  
+    <entry>
+      <title type="html">Graychang Ar</title>
+      <link href="http://localhost:4000/ue4,%20android,%20arcore/2018/05/22/graychang-ar/" rel="alternate" type="text/html" title="Graychang Ar" />
+      <published>2018-05-22T00:00:00+09:00</published>
+      <updated>2018-05-22T00:00:00+09:00</updated>
+      <id>http://localhost:4000/ue4,%20android,%20arcore/2018/05/22/graychang-ar</id>
+      <content type="html" xml:base="http://localhost:4000/ue4,%20android,%20arcore/2018/05/22/graychang-ar/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="UE4, Android, ARCore" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Ue4 Petit Con 07</title>
@@ -75,40 +109,6 @@
 
       
         <category term="UE4" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Graychang Ar</title>
-      <link href="http://localhost:4000/ue4,%20android,%20arcore/2016/05/22/graychang-ar/" rel="alternate" type="text/html" title="Graychang Ar" />
-      <published>2016-05-22T00:00:00+09:00</published>
-      <updated>2016-05-22T00:00:00+09:00</updated>
-      <id>http://localhost:4000/ue4,%20android,%20arcore/2016/05/22/graychang-ar</id>
-      <content type="html" xml:base="http://localhost:4000/ue4,%20android,%20arcore/2016/05/22/graychang-ar/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="UE4, Android, ARCore" />
       
 
       
