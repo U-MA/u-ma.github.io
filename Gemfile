@@ -1,2 +1,4 @@
 source "https://rubygems.org"
-gemspec
+
+gem "freelancer-theme-jekyll"
+gem "kramdown-parser-gfm"
